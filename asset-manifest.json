@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactYoutubeCloneTwo/static/css/main.73b55ca3.css",
-    "main.js": "/ReactYoutubeCloneTwo/static/js/main.7e8b21a0.js",
+    "main.js": "/ReactYoutubeCloneTwo/static/js/main.f93e63c2.js",
     "static/js/496.d424a911.chunk.js": "/ReactYoutubeCloneTwo/static/js/496.d424a911.chunk.js",
     "index.html": "/ReactYoutubeCloneTwo/index.html",
     "main.73b55ca3.css.map": "/ReactYoutubeCloneTwo/static/css/main.73b55ca3.css.map",
-    "main.7e8b21a0.js.map": "/ReactYoutubeCloneTwo/static/js/main.7e8b21a0.js.map",
+    "main.f93e63c2.js.map": "/ReactYoutubeCloneTwo/static/js/main.f93e63c2.js.map",
     "496.d424a911.chunk.js.map": "/ReactYoutubeCloneTwo/static/js/496.d424a911.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73b55ca3.css",
-    "static/js/main.7e8b21a0.js"
+    "static/js/main.f93e63c2.js"
   ]
 }
